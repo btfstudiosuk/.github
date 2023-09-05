@@ -2,4 +2,4 @@
 
 - LUNA is a FiveM Semi-RP/Fragging server.
 
-- [Discord](https://discord.gg/luna5m)
+- [Discord](https://discord.gg/lunarp)
