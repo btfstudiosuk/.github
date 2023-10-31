@@ -1,5 +1,5 @@
-## LUNA RP
+## BTF RP
 
-- LUNA is a FiveM Semi-RP/Fragging server.
+- BTF is a FiveM Semi-RP/Fragging server.
 
-- [Discord](https://discord.gg/lunarp)
+- [Discord](https://discord.gg/btf)
